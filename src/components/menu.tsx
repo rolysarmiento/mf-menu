@@ -1,3 +1,6 @@
+/*import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.min.js'*/
+
 import './menu.css'
 
 export default function Menu(props: any) {
@@ -6,15 +9,11 @@ export default function Menu(props: any) {
 
   return (
     <>
+
+
       <div className='bodymenu'>
         <aside className='sidebar'>
           <ul className='sidebar__list'>
-            {/* <li className='sidebar__element'>
-            <img src={logo} className='sidebar__logo' /> 
-            <div className='sidebar__hide'>
-              <img src={logo} className='sidebar__logo' />
-            </div>
-          </li> */}
             <li className='sidebar__element'>
               <svg
                 xmlns="http://www.w3.org/2000/svg"

@@ -9,17 +9,14 @@
   font-family: "Plus Jakata Sans", sans-serif;
   height: 100vh;
   background-size: cover;
-  /*background-image: linear-gradient(#FF4890, #50A6FB);*/
 
   display: flex;
   padding-top: 40px;
-  /* align-items: center; */
 }
 
 .sidebar {
   background-color: #12489e;
   width: max-content;
-  /*border-radius: 10px;*/
   padding: 2rem 1rem;
 }
 
